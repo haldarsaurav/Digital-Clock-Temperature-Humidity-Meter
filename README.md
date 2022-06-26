@@ -1,6 +1,6 @@
 # Digital-Clock-Temperature-Humidity-Meter
 
-![The final Robot!](img/robot1.jpg "The final robot")
+![box_enclosuret!](img/box_enclosure9-min.png "box_enclosure")
 
 <ul>
   <li>Here in this porject I designed and produced a clock that can show the date, month, year, time, temperature, and humidity.</li>
