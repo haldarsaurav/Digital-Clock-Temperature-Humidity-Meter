@@ -66,6 +66,9 @@ So, since I wanted this to be my persoanl desk clock, I wanted a nice sleek wood
 
 ![box_enclosuret!](img/box_enclosure2-min.png "box_enclosure")
 ---
+added some blocks of wood for the back plate to close the box. 
+![box_enclosuret!](img/screw_holes-min.png "box_enclosure")
+---
 
 ![box_enclosuret!](img/box_enclosure3-min.png "box_enclosure")
 ---
@@ -76,6 +79,7 @@ Added soem wood filler to hide the imperfections
 Painted it with wood paint and also added some hole at the top for vents. 
 ![box_enclosuret!](img/box_enclosure8-min.png "box_enclosure")
 ---
+# The Problems
 
 
 
