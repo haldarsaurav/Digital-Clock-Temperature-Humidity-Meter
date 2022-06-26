@@ -9,6 +9,11 @@
   
 ## How the final desk clock looks :) 
 
+
+<p align="center">
+  <img width="500" height="600" src="img/box_enclosure9-min.png">
+</p>
+
 ![box_enclosuret!](img/box_enclosure9-min.png "box_enclosure")
 
 ![box_enclosuret!](img/box_enclosure10-min.png "box_enclosure")
