@@ -81,6 +81,23 @@ Painted it with wood paint and also added some hole at the top for vents.
 ---
 # The Problems
 
+Since, I made all the things modular and generally, when there are too many points of connectiuosn there are also more points for failure, sso, i decided to scrap the idea of modularity ane made everything again on a single PCB. 
+
+![box_enclosuret!](img/final_board3-min.png "box_enclosure")
+
+and for RTC i used a premade board with a better IC the DS3132
+
+![box_enclosuret!](img/final_RTC-min.png "box_enclosure")
+
+andf the final board looked much cleaner was really reliable with eveyurhign on the board itself just all the auxillary components needs to be connected via pin connectors. 
+
+![box_enclosuret!](img/final_project_board-min.png "box_enclosure")
+![box_enclosuret!](img/final_board_soldering-min.png "box_enclosure")
+
+ the final assembly inside the enclosure :)
+ 
+ ![box_enclosuret!](img/final_assembly-min.png "box_enclosure")
+ ![box_enclosuret!](img/final_assembly2-min.png "box_enclosure")
 
 
 
