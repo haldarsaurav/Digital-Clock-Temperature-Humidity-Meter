@@ -108,7 +108,12 @@ andf the final board looked much cleaner was really reliable with eveyurhign on 
  the final assembly inside the enclosure :)
  
  ![box_enclosuret!](img/final_assembly-min.png "box_enclosure")
+ 
  ![box_enclosuret!](img/final_assembly2-min.png "box_enclosure")
+ 
+ Finally :) 
+ 
+ ![box_enclosuret!](img/box_enclosure9-min.png "box_enclosure")
 
 
 
