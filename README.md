@@ -17,4 +17,4 @@
 
 Once, in one of my classes at university, I was doodeling and thought about a desk clock which can show me also the ambient temperature and humiduty, then I started imaging the design and started making addidtions to the idea profressively. 
 
-![box_enclosuret!](img/idea_sketch1-min.png"box_enclosure")
+![box_enclosuret!](img/idea_sketch1-min.png "box_enclosure")
