@@ -34,7 +34,11 @@ So, like with every project, I started out making the project or prototyping it 
 you can also see the working here [Video of working prototype](videos/prototype1.AVI "Video of working prototype")
 
 ## Now, the hard part! 
-Transferring the breadboard circuit 
+Transferring the breadboard circuit in a more permanent way, first was to make the arduio itself, since I cant sacrifice my only one arduino for this project :) 
+Here, I made 2 versions of the arduino. 
+![box_enclosuret!](img/arduino_boards-min.png "box_enclosure")
+although the boards were perfect and I flashed the new ATMEGA328 IC using my existing arduiono uno, I ended up now using it, beecause of reasons explaineed later. 
+
 
 
 
