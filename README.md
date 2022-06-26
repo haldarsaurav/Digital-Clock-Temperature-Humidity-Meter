@@ -23,3 +23,15 @@ and thought about the interface and other additions I can make to it.
 
 ![box_enclosuret!](flowchart._schematic_block_diagram/LCD_interface_sketch.JPG "box_enclosure")
 
+### Breadboard Prototype! 
+
+So, like with every project, I started out making the project or prototyping it on the breadboard and everythihg seemed to work fine. 
+
+![box_enclosuret!](img/bread_board_build1-min.png "box_enclosure")
+![box_enclosuret!](img/bread_board_build2-min.png "box_enclosure")
+---
+
+you can also see the working here [An Internal Link](videos/prototype1.AVI)
+
+
+
