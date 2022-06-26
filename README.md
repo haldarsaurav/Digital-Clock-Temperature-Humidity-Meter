@@ -31,7 +31,10 @@ So, like with every project, I started out making the project or prototyping it 
 ![box_enclosuret!](img/bread_board_build2-min.png "box_enclosure")
 ---
 
-you can also see the working here [An Internal Link](videos/prototype1.AVI)
+you can also see the working here [Video of working prototype](videos/prototype1.AVI "Video of working prototype")
+
+## Now, the hard part! 
+Transferring the breadboard circuit 
 
 
 
