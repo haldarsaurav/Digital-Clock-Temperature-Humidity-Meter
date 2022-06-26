@@ -32,7 +32,9 @@ So, like with every project, I started out making the project or prototyping it 
 ![box_enclosuret!](img/bread_board_build2-min.png "box_enclosure")
 
 
-## you can also see the working here [Video of working prototype](videos/prototype1.AVI "Video of working prototype")
+## You can also see the working here 
+
+>[Video of working prototype](videos/prototype1.AVI "Video of working prototype") 
 
 ## Now, the hard part! 
 
@@ -106,7 +108,12 @@ andf the final board looked much cleaner was really reliable with eveyurhign on 
  the final assembly inside the enclosure :)
  
  ![box_enclosuret!](img/final_assembly-min.png "box_enclosure")
+ 
  ![box_enclosuret!](img/final_assembly2-min.png "box_enclosure")
+ 
+ Finally :) 
+ 
+ ![box_enclosuret!](img/box_enclosure9-min.png "box_enclosure")
 
 
 
@@ -134,10 +141,6 @@ andf the final board looked much cleaner was really reliable with eveyurhign on 
     //                                   and                                         /
     //        Mr.Tom Igoe (his State change detection example as a reference)        /
     //                           (for the menu system)                               /
-    //                                                                               /
-    //                                                                               /
-    //                                                                               /
-    //                                                                               /
     //////////////////////////////////////////////////////////////////////////////////
 
 

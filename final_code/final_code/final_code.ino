@@ -18,10 +18,6 @@
 //                                   and                                         /
 //        Mr.Tom Igoe (his State change detection example as a reference)        /
 //                           (for the menu system)                               /
-//                                                                               /
-//                                                                               /
-//                                                                               /
-//                                                                               /
 //////////////////////////////////////////////////////////////////////////////////
 
 
