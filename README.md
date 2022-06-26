@@ -19,4 +19,4 @@ Once, in one of my classes at university, I was doodeling and thought about a de
 
 
 
-![box_enclosuret!](img/idea_sketch1-min.png"box_enclosure")
+![box_enclosuret!](img/idea_sketch1-min.png" box_enclosure")
