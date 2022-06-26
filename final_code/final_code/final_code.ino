@@ -1,27 +1,25 @@
+#  _________                                         ___ ___          .__       .___                
+# /   _____/_____    __ __ _______ _____   ___  __  /   |   \ _____   |  |    __| _/_____   _______ 
+# \_____  \ \__  \  |  |  \\_  __ \\__  \  \  \/ / /    ~    \\__  \  |  |   / __ | \__  \  \_  __ \
+# /        \ / __ \_|  |  / |  | \/ / __ \_ \   /  \    Y    / / __ \_|  |__/ /_/ |  / __ \_ |  | \/
+#/_______  /(____  /|____/  |__|   (____  /  \_/    \___|_  / (____  /|____/\____ | (____  / |__|   
+#       \/      \/                     \/                \/       \/            \/      \/         
 
-
-
-
+# Start Of Program---------------------------------------------------------------------------------------------------------
 
 //////////////////////////////////////////////////////////////////////////////////
 //              CLOCK + TEMPERATURE + HUMIDITY METER WITH DISPLAY                /
 //                      Code written and designed By:-                           /
 //                      ***** SAURAV HALDAR *****                                /
 //                         haldarsaurav13@gmail.com                              /
-//                       electronics470.wordpress.com                            /
+//                                                                               /
 //                                                                               /
 // Credits:- LADYADA (Limor Fried of ADAFRUIT INDUSTRIES for the DHT11 library)  /
 //                                   and                                         /
 //        Mr.Tom Igoe (his State change detection example as a reference)        /
 //                           (for the menu system)                               /
 //                                                                               /
-//                               Code written                                    /
-//                                   on                                          /
-//                              14th JULY 2015                                   /
-//                              Last modified                                    /
-//                                   on                                          /
-//                              18 August 2015                                   / 
-//                                  PM                                       /
+//                                                                               /
 //                                                                               /
 //                                                                               /
 //////////////////////////////////////////////////////////////////////////////////
