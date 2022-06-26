@@ -53,6 +53,13 @@ After making the IC and RTC, time to make everything from the different modules 
 ---
 ![box_enclosuret!](img/prototype1_module_board-min.png "box_enclosure")
 ![box_enclosuret!](img/prototype1_module_board_soldering-min.png "box_enclosure")
+---
+Power Supply 
+![box_enclosuret!](img/prototype1_power_supply-min.png "box_enclosure")
+---
+and the final assembly!
+![box_enclosuret!](img/prototype_1-min.png "box_enclosure")
+
 
 
 
