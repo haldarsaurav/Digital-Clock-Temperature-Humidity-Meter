@@ -141,10 +141,6 @@ andf the final board looked much cleaner was really reliable with eveyurhign on 
     //                                   and                                         /
     //        Mr.Tom Igoe (his State change detection example as a reference)        /
     //                           (for the menu system)                               /
-    //                                                                               /
-    //                                                                               /
-    //                                                                               /
-    //                                                                               /
     //////////////////////////////////////////////////////////////////////////////////
 
 
