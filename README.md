@@ -38,8 +38,8 @@ you can also see the working here [Video of working prototype](videos/prototype1
 Transferring the breadboard circuit in a more permanent way, first was to make the arduio itself, since I can't sacrifice my only one arduino for this project :) 
 Here, I made 2 versions of the arduino. 
 ![box_enclosuret!](img/arduino_boards-min.png "box_enclosure")
-![box_enclosuret!](img/prototype1_arduino-min.png"box_enclosure")
-![box_enclosuret!](img/prototype1_arduino_soldering-min.png")
+![box_enclosuret!](img/prototype1_arduino-min.png "box_enclosure")
+![box_enclosuret!](img/prototype1_arduino_soldering-min.png "box_enclosure")
 although the boards were perfect and I flashed the new ATMEGA328 IC using my existing arduiono uno, I ended up not using it, beecause of reasons explaineed later.
 ### The RTC 
 For the RTC, I used DS1307 and made a breakout board for it and it worked perfectly. 
