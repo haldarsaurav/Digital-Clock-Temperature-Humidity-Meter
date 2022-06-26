@@ -60,7 +60,15 @@ Power Supply
 and the final assembly!
 ![box_enclosuret!](img/prototype_1-min.png "box_enclosure")
 
+## The Enclosure
 
+So, since I wanted this to be my persoanl desk clock, I wanted a nice sleek wooden case for it, I didn't have much tools or resources but, I am glad how it turned out.
+
+![box_enclosuret!](img/box_enclosure2-min.png "box_enclosure")
+
+![box_enclosuret!](img/box_enclosure3-min.png "box_enclosure")
+![box_enclosuret!](img/box_enclosure6-min.png "box_enclosure")
+![box_enclosuret!](img/box_enclosure8-min.png "box_enclosure")
 
 
 
